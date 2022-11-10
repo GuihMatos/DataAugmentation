@@ -1,1 +1,3 @@
 # DataAugmentation
+
+Separated data augmentation offline codes flips, rotations...
